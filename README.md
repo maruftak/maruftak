@@ -99,6 +99,12 @@ class Maruf:
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#24](https://github.com/maruftak/reconsentry/pull/24) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+2. 💪 Opened PR [#24](https://github.com/maruftak/reconsentry/pull/24) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+3. 🎉 Merged PR [#23](https://github.com/maruftak/reconsentry/pull/23) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+4. 💪 Opened PR [#23](https://github.com/maruftak/reconsentry/pull/23) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+5. 🗣 Commented on [#19](https://github.com/maruftak/reconsentry/pull/19#issuecomment-4690904194) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+6. 🎉 Merged PR [#22](https://github.com/maruftak/reconsentry/pull/22) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
 <!--END_SECTION:activity-->
 
 <br/>
