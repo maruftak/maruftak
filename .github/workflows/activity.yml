@@ -22,3 +22,4 @@ jobs:
         with:
           COMMIT_MSG: "chore: auto-update recent activity"
           MAX_LINES: 6
+          FILTER_EVENTS: "PushEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent,ReleaseEvent,CreateEvent,ForkEvent,WatchEvent"
