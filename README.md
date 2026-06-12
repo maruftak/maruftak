@@ -85,12 +85,22 @@ class Maruf:
 <tr>
 <td width="50%" valign="top">
 
+### 🛡️ [SomShield](https://github.com/maruftak/SomShield)
+Compliance-first **MDR / SOC-as-a-service** platform — AI alert triage, MITRE ATT&CK mapping, NCA compliance automation, multi-tenant Postgres RLS, trilingual (EN/SO/AR) UI.
+
+`Next.js` · `Python` · `AI` · `SOC`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛰️ [reconsentry](https://github.com/maruftak/reconsentry)
 Continuous attack-surface change monitor — alerts the moment a new subdomain, host, endpoint, or technology appears on authorized targets. Single Go binary.
 
 `Go` · `recon` · `osint` · `attack-surface`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍯 [HoneyPot-FYP](https://github.com/maruftak/HoneyPot-FYP)
@@ -99,8 +109,6 @@ Advanced IoT camera honeypot with a real-time dashboard and live threat intellig
 `Python` · `honeypot` · `iot` · `threat-intel`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 [IoTLogAnalyzer](https://github.com/maruftak/IoTLogAnalyzer)
@@ -109,12 +117,22 @@ Turns raw IoT-honeypot capture data into structured threat intel — classifies 
 `Python` · `botnet` · `log-analysis` · `cve`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [catnip-games-siem](https://github.com/maruftak/catnip-games-siem)
 Graylog SIEM deployment — real-time log ingestion, 5 security dashboards, automated alerting, and PDF reports via Telegram.
 
 `Python` · `siem` · `graylog` · `soc`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [TurkPath](https://github.com/maruftak/TurkPath)
+Multilingual Turkey tour-booking platform — customizable multi-city packages, agency flows, and EN/AR/BN i18n. Full-stack, E2E-tested.
+
+`Next.js` · `TypeScript` · `i18n`
 
 </td>
 </tr>
