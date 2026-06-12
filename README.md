@@ -77,6 +77,53 @@ class Maruf:
 
 <br/>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ [reconsentry](https://github.com/maruftak/reconsentry)
+Continuous attack-surface change monitor — alerts the moment a new subdomain, host, endpoint, or technology appears on authorized targets. Single Go binary.
+
+`Go` · `recon` · `osint` · `attack-surface`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍯 [HoneyPot-FYP](https://github.com/maruftak/HoneyPot-FYP)
+Advanced IoT camera honeypot with a real-time dashboard and live threat intelligence.
+
+`Python` · `honeypot` · `iot` · `threat-intel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [IoTLogAnalyzer](https://github.com/maruftak/IoTLogAnalyzer)
+Turns raw IoT-honeypot capture data into structured threat intel — classifies botnet families, maps CVE exploits, generates geo attacker reports.
+
+`Python` · `botnet` · `log-analysis` · `cve`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [catnip-games-siem](https://github.com/maruftak/catnip-games-siem)
+Graylog SIEM deployment — real-time log ingestion, 5 security dashboards, automated alerting, and PDF reports via Telegram.
+
+`Python` · `siem` · `graylog` · `soc`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Metrics
 
