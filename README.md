@@ -1,12 +1,12 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <a href="https://github.com/maruftak">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md%20Al%20Maruf&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12&height=220&section=header&text=Md%20Al%20Maruf&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Ethical%20Hacker%20%7C%20SOC%20Analyst&descAlignY=58&descAlign=50" alt="header"/>
 </a>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maruf+%F0%9F%91%8B;Full-Stack+Developer;Always+building+something;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Maruf+%F0%9F%91%8B;Penetration+Tester+%26+Ethical+Hacker;SOC+Analyst+%E2%80%94+Blue+%2B+Red+Team;I+break+it%2C+then+I+secure+it+%F0%9F%94%90;sudo+access+granted_)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,32 +25,58 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```typescript
-const maruf = {
-  role: "Software Developer",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
-  askMeAbout: ["web dev", "tech", "open source"],
-  currentlyLearning: "System Design & Cloud",
-  funFact: "I turn coffee into code ☕ → 💻",
-};
+```python
+class Maruf:
+    role        = "Penetration Tester | Ethical Hacker | SOC Analyst"
+    focus       = ["Web App Pentesting", "Red Team", "Blue Team / SOC", "OSINT"]
+    also_builds = ["Web Applications"]
+    code        = ["Python", "Bash", "JavaScript", "SQL"]
+    ask_me      = ["web exploitation", "threat detection", "incident response"]
+    learning    = "Advanced exploit dev & cloud security"
+    motto       = "Think like an attacker, defend like a guardian."
 ```
 
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+## 🛠️ Arsenal & Stack
+
+**🔴 Offensive / Pentest**
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004880?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+</div>
+
+**🔵 Defensive / SOC**
+
+<div align="center">
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge&logo=wazuh&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C7282E?style=for-the-badge&logo=mitre&logoColor=white)
+
+</div>
+
+**💻 Dev & Languages**
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
