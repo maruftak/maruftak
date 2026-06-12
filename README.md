@@ -1,13 +1,8 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<a href="https://github.com/maruftak">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12&height=220&section=header&text=Md%20Al%20Maruf&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Ethical%20Hacker%20%7C%20SOC%20Analyst&descAlignY=58&descAlign=50" alt="header"/>
-</a>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== CUSTOM ANIMATED HERO (hand-coded SVG) ===================== -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Maruf+%F0%9F%91%8B;Penetration+Tester+%26+Ethical+Hacker;SOC+Analyst+%E2%80%94+Blue+%2B+Red+Team;I+break+it%2C+then+I+secure+it+%F0%9F%94%90;sudo+access+granted_)](https://git.io/typing-svg)
-
+  <a href="https://github.com/maruftak">
+    <img width="100%" src="https://raw.githubusercontent.com/maruftak/maruftak/main/assets/hero.svg" alt="Md Al Maruf — animated security terminal"/>
+  </a>
 </div>
 
 <!-- ===================== PROFILE VIEWS + FOLLOW ===================== -->
