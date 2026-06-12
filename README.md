@@ -95,6 +95,14 @@ class Maruf:
 
 <br/>
 
+<!-- ===================== AUTO RECENT ACTIVITY ===================== -->
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
 <!-- ===================== SNAKE CONTRIBUTION GRAPH ===================== -->
 ## 🐍 Contribution Snake
 
