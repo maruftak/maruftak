@@ -164,12 +164,12 @@ Multilingual Turkey tour-booking platform — customizable multi-city packages, 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](https://github.com/vavkamil/awesome-bugbounty-tools/pull/111) in [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
-2. 🗣 Commented on [#19](https://github.com/maruftak/reconsentry/pull/19#issuecomment-4696548392) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
-3. 🔒 Closed issue [#14](https://github.com/maruftak/reconsentry/issues/14) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
-4. 🎉 Merged PR [#24](https://github.com/maruftak/reconsentry/pull/24) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
-5. 💪 Opened PR [#24](https://github.com/maruftak/reconsentry/pull/24) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
-6. 🎉 Merged PR [#23](https://github.com/maruftak/reconsentry/pull/23) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+1. 🗣 Commented on [#38](https://github.com/maruftak/reconsentry/issues/38#issuecomment-4700103314) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+2. 🗣 Commented on [#27](https://github.com/maruftak/reconsentry/issues/27#issuecomment-4700101542) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+3. ℹ️ Labeled issue [#38](https://github.com/maruftak/reconsentry/issues/38) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+4. ℹ️ Labeled issue [#38](https://github.com/maruftak/reconsentry/issues/38) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+5. ℹ️ Labeled issue [#38](https://github.com/maruftak/reconsentry/issues/38) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
+6. ❗ Opened issue [#38](https://github.com/maruftak/reconsentry/issues/38) in [maruftak/reconsentry](https://github.com/maruftak/reconsentry)
 <!--END_SECTION:activity-->
 
 <br/>
